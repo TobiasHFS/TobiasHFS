@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @TobiasHFS
-- 👀 I’m interested in Team work, Coding, Handball, learning new things and trying out any and everything
-- 🌱 I’m currently learning CSS, HTML, JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me falktobias.work@gmail.com
+Hi, I’m Tobias 👋
+I study Economics at LMU Munich and enjoy working with data, code, and markets. On this GitHub you’ll mostly find Python projects related to analytics, automation, and reproducible research.
+📫 How to reach me falktobias.work@gmail.com
 
 <!---
 TobiasHFS/TobiasHFS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
