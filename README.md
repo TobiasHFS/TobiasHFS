@@ -1,9 +1,15 @@
-Hi, I’m Tobias 👋
-I study Economics at LMU Munich and enjoy working with data, code, and markets. On this GitHub you’ll mostly find Python projects related to analytics, automation, and reproducible research.
-📫 How to reach me falktobias.work@gmail.com
+# Tobias Falk
 
-<!---
-TobiasHFS/TobiasHFS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://github.com/TobiasHFS/TobiasHFS
+I study Economics at LMU Munich. I use Python for data analysis, economic modelling and small research projects.
+
+Some projects here:
+
+- [Academic Paper Narrator](https://github.com/TobiasHFS/Academic-Paper-Narrator): a local PDF reading and narration tool
+- [Market Forecasting Study](https://github.com/TobiasHFS/market-forecasting-study): competition experiments and evaluation notes
+- [EV Purchase Prediction](https://github.com/TobiasHFS/ev-purchase-prediction): tabular modelling and ensemble experiments
+- [PD Model Validation](https://github.com/TobiasHFS/pd-model-validation): a synthetic model-validation exercise
+- [MacroMind](https://github.com/TobiasHFS/macromind): a market dashboard prototype
+
+Most are work in progress or archived studies. Each repository describes its current state.
+
+Contact: falktobias.work@gmail.com
